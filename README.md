@@ -39,9 +39,7 @@ I’m driven to apply analytical insights for smarter, risk-aware business and t
 - Designed **real-time insights dashboards** to improve employee performance and retention.  
 - Processed and visualized data using **Power BI** and **Google Colab**.  
 - Developed a **Random Forest Classifier** for attrition prediction with **98.4% model performance** and **85% accuracy**.  
-- Integrated **risk-based HR analytics** to identify turnover vulnerabilities.
-- images/dashboard.png
-- 
+- Integrated **risk-based HR analytics** to identify turnover vulnerabilities. 
 
 ### 🔢 DIGIFY | *Exploratory Data Analysis*
 📅 *August 2022*  
