@@ -3,7 +3,7 @@
 📍 India  
 📞 +91 8274907266  
 ✉️ [shrutisen19.10@gmail.com](mailto:shrutisen19.10@gmail.com)  
-🔗 [GitHub](https://github.com/Shruti002)] | [LinkedIn](https://www.linkedin.com/in/shruti-sen-42a25522a/)
+🔗 [GitHub](https://github.com/Shruti002) | [LinkedIn](https://www.linkedin.com/in/shruti-sen-42a25522a/)
 
 ---
 
@@ -40,7 +40,7 @@ I’m driven to apply analytical insights for smarter, risk-aware business and t
 - Processed and visualized data using **Power BI** and **Google Colab**.  
 - Developed a **Random Forest Classifier** for attrition prediction with **98.4% model performance** and **85% accuracy**.  
 - Integrated **risk-based HR analytics** to identify turnover vulnerabilities.
-- https://github.com/Shruti002/shrutisen.github.io/blob/main/images/dashboard.png
+- images/dashboard.png
 - 
 
 ### 🔢 DIGIFY | *Exploratory Data Analysis*
